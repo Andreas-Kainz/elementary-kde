@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="state-information.svg"
+   height="22"
+   id="svg6530"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   viewBox="0 0 22 22"
+   width="22">
+  <defs
+     id="defs6532">
+    <linearGradient
+       id="linearGradient5606"
+       osb:paint="solid">
+      <stop
+         id="stop5608"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="10.753001"
+     inkscape:cy="9.3126919"
+     inkscape:document-units="px"
+     id="base"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     pagecolor="#454d50"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     units="px"
+     inkscape:window-height="1372"
+     inkscape:window-maximized="1"
+     inkscape:window-width="2560"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:zoom="32">
+    <inkscape:grid
+       empspacing="4"
+       id="grid8845"
+       originx="-81.000229"
+       originy="-99.001625"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6535">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="panel"
+     transform="translate(-81.000229,-931.36053)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 88,934.36216 -5,3 4,2.98438 -4.009766,3.00781 5.009766,3.00781 4,-3 -5,-3 5,-3 5,3.01562 -5,2.98438 1.777344,1.33398 c 0.91425,-1.45056 2.50802,-2.33148 4.222656,-2.33398 1.074502,0.003 2.11961,0.35112 2.98047,0.99414 l 0.0293,-0.0176 L 97,940.36216 l 4,-3 -5,-3 -4,2.98438 z m 4,10 -4,3 -1,-0.59961 0,0.59961 5,3 1.476562,-0.88477 C 93.164902,948.81566 93.002223,948.09361 93,947.36216 c -2.42e-4,-0.67105 0.134598,-1.33529 0.396484,-1.95312 z"
+       id="path5187"
+       style="color:#000000;fill:#dbdee0;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+    <rect
+       height="22"
+       id="rect5189"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+       width="22"
+       x="81.000229"
+       y="931.36053" />
+    <path
+       style="color:#000000;fill:#dbdee0;fill-opacity:1;stroke:none"
+       d="M 17 12.001953 C 15.976311 12.001953 14.952924 12.392778 14.171875 13.173828 C 12.609777 14.735928 12.609777 17.267988 14.171875 18.830078 C 15.733973 20.392178 18.266023 20.392178 19.828125 18.830078 C 21.390215 17.267978 21.390225 14.735928 19.828125 13.173828 C 19.047075 12.392778 18.023689 12.001953 17 12.001953 z M 16.5 13.173828 L 17.5 13.173828 L 17.5 14.001953 L 16.5 14.001953 L 16.5 13.173828 z M 16.5 15.001953 L 17.5 15.001953 L 17.5 18.830078 L 16.5 18.830078 L 16.5 15.001953 z "
+       transform="translate(81.000229,931.36053)"
+       id="path5187-3" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="animations"
+     transform="translate(-81.000229,-478.99837)" />
+</svg>
