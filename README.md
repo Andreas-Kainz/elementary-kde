@@ -13,7 +13,7 @@
     <img title="Terminal icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/utilities-terminal.svg" />
  </div>
 
-# elementary Icons
+# elementary Icons - KDE
 
 [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=27377189)](https://www.bountysource.com/trackers/27377189-elementary-icons)
 
@@ -28,16 +28,8 @@ It is recommended to use the free and open source [Inkscape](http://inkscape.org
 
 To contribute to the elementary icon set, open a pull request to this repository with your icon(s).
 
-It is strongly encouraged to vacuum all vectors with [Inkscape](http://inkscape.org). This keeps the repository lean, clean, and fast for everyone. For convenience, a git pre-commit hook is included. To install, run these commands from your local repository folder:
-```bash
-$ cp pre-commit .git/hooks/
-$ chmod +x .git/hooks/pre-commit
-```
+It is strongly encouraged to vacuum all vectors with [Inkscape](http://inkscape.org). This keeps the repository lean, clean, and fast for everyone.
 
-## Not a Universal Icon Set
-Since this set is designed specifically for elementary OS, pull requests to add icons or symlinks that are specific to other desktop environments (such as `xfce-*` or `gnome-*` named icons) will be rejected.
-
-Use of icon names in line with the [FreeDesktop.Org Icon Naming Specification](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html) is encouraged.
-
-## Third-Party Brand Preservation
-elementary icons do not attempt to supply icons for third-party apps. Pull requests to add icons or symbolic links that would overwrite the branding of third-party apps will be rejected.
+## A Universal Icon Set
+This is an icon-theme maintained with KDE in mind.
+It's a fork of the upstream elementary-project, which took place because the team decided to drop a lot of desktop-specific symlinks. This icon-theme is supposed to keep everything working, but we'll still pull new icons from upstream and integrate them occasionally.
