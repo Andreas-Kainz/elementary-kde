@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="16"
+   height="16"
+   id="svg3186"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="weather-few-clouds-night.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="914"
+     inkscape:window-height="825"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="1.4266686"
+     inkscape:cy="2.4080022"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3186" />
+  <defs
+     id="defs3188">
+    <linearGradient
+       id="linearGradient3604">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3606" />
+      <stop
+         style="stop-color:#363636;stop-opacity:1;"
+         offset="1"
+         id="stop3608" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective12" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3604"
+       id="linearGradient3610"
+       x1="8.5400848"
+       y1="1.9887618"
+       x2="8.5400848"
+       y2="15.000675"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g3600"
+     style="fill-opacity:1;fill:url(#linearGradient3610)">
+    <path
+       style="fill:url(#linearGradient3610);fill-opacity:1.0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline;opacity:0.69999999999999996"
+       id="path2876-6-6-4"
+       d="M 8,2 C 6.4490246,2.2603302 5.0385869,3.1823927 4.125,4.46875 C 3.2417569,5.7125187 2.8529615,7.2994879 3.0625,8.8125 C 3.2033131,8.7866616 3.3537654,8.7812499 3.5,8.78125 C 3.7115101,8.78125 3.8204114,8.8871663 4,8.9375 C 4.5975807,8.3637463 5.346862,7.9375 6.25,7.9375 C 7.8651086,7.9375 9.174891,9.1246337 9.4375,10.65625 C 10.328821,11.166269 11.0625,11.962153 11.0625,13.0625 C 11.0625,13.257554 11.037905,13.442861 11,13.625 C 12.149381,13.210749 13.196317,12.468357 13.90625,11.46875 C 14.819937,10.182383 9.6027298,11.496392 9.34375,9.9375 C 9.4148266,7.9731919 8.1777108,7.4215514 7.84375,7.125 C 6.6654774,6.0784374 9.5510756,1.7396699 8,2 z" />
+    <path
+       style="fill:url(#linearGradient3610);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.69999999999999996"
+       id="rect3193"
+       d="M 6.2499995,9 C 5.4052717,9 4.6815977,9.4553658 4.2968748,10.111607 C 4.0802399,9.9571476 3.8035998,9.857143 3.4999999,9.857143 C 2.8099999,9.857143 2.25,10.337143 2.2499999,10.928571 C 2.2499999,11.061397 2.2765047,11.186162 2.3281249,11.303571 C 1.5433711,11.60412 1,12.284584 1,13.071428 C 1,14.139857 2.0035,15 3.25,15 L 7.7499999,15 C 8.9964995,15 10,14.139857 10,13.071428 C 10,12.22514 9.3656349,11.510986 8.4843742,11.25 C 8.4863321,11.213389 8.4999998,11.17993 8.4999998,11.142857 C 8.4999998,9.96 7.4919997,9 6.2499995,9 z" />
+  </g>
+</svg>
